@@ -1,0 +1,1 @@
+# cppcheck_wildcard-cfg
